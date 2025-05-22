@@ -1,5 +1,5 @@
 
-# Project Title
+# C-Kernel-Image-Convertor
 
 This C Kernel converts images from RGB format to YCrCb format, using a C kernel to optimize performance. It uses Python then C to convert the images, and compares the performance. 
 
